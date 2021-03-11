@@ -1,0 +1,3 @@
+rootProject.name = "MarkdownView"
+include ':app'
+include ':library'
